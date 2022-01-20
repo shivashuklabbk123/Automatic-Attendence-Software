@@ -1,0 +1,2 @@
+# Automatic-Attendence-Software
+This is one of the big project that are consist of capturing the  face and recognizing the face with the help of LBPH Algorithm that i have used  in this project and it have more feature such as it contain the all information of all student in the college or school and it mark the attendence on the basis of recognizing the face in the class and it contain another feature that feature is Bot.
